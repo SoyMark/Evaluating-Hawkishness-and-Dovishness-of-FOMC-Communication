@@ -28,11 +28,11 @@ I didn't choose to use word dictionary and tf-idf method because: 1) Using only 
 
 #### Classification method
 
-![Figure_1](./Figure_1.png)
+![Figure_1](./report/Figure_1.png)
 
-![Figure_2](./Figure_2.png)
+![Figure_2](./report/Figure_2.png)
 
-![Figure_3](./Figure_3.png)
+![Figure_3](./report/Figure_3.png)
 
 Across all three sources of fomc statements—minutes, press conferences, and speeches—the 2018–19 period shows a consistent, strong negative correlation: hawkish communication almost always led to curve flattening (i.e. a lower 90 day/5 year spread).
 
@@ -44,11 +44,11 @@ The data may suggest that markets may now be more focused on actual data and pol
 
 #### Similarity-based method
 
-![Figure_4](./Figure_4.png)
+![Figure_4](./report/Figure_4.png)
 
-![Figure_5](./Figure_5.png)
+![Figure_5](./report/Figure_5.png)
 
-![Figure_6](./Figure_6.png)
+![Figure_6](./report/Figure_6.png)
 
 
 
